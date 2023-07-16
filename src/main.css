@@ -1,0 +1,13 @@
+#canape-button {
+    width: 100px;
+    height: 27px;
+    font-size: 14px;
+    background-color: #0000CC;
+    font-family: cursive; 
+    color: #f1f1ea;
+    border-style: solid;
+    border-color: #ffff80;
+    border-width: 2px;
+    border-radius: 8px;
+  }
+  
